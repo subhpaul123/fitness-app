@@ -38,7 +38,7 @@ This system is designed using a microservices-based architecture to ensure modul
      
 *    React.js(Frontend)
      
-*    PostgreSQL / MySQL (Database)
+*    PostgreSQL (Database)
     
 
 ## Getting Started
