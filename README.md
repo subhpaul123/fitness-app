@@ -21,7 +21,7 @@ This system is designed using a microservices-based architecture to ensure modul
      
 *    **gateway** – API Gateway for routing requests and handling cross-cutting concerns.
      
-*    **fitness-app-frontend** – Frontend interface for users to interact with the application   
+*    **frontend** – Frontend interface for users to interact with the application   
 
 
 ## Technologies Used
